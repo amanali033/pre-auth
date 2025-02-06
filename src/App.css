@@ -1,0 +1,19 @@
+.MuiDataGrid-menuIcon {
+  display: none !important;
+}
+
+.MuiDataGrid-virtualScrollerContent {
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.MuiDataGrid-root {
+  border: none !important;
+}
+
+.text-primary {
+  color: #09090b;
+}
+.text-secondary {
+  color: #71717a;
+}
